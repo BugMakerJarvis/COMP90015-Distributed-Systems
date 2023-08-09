@@ -7,11 +7,11 @@
 The system's user interface is built using **JavaFX**, which provides a modern and customizable platform for
 creating rich and interactive desktop applications.
 
-<img src="screenshots/asm-01-overview.png" alt="drawing" width="720"/>
+<img src="screenshots/asm-01-overview.png" alt="drawing" width="1080"/>
 
 You can simply run the DictionaryServerApp and DictionaryClientApp classes to start the server and client applications.
 
-<img src="screenshots/asm-01-run.png" alt="drawing" width="720"/>
+<img src="screenshots/asm-01-run.png" alt="drawing" width="1080"/>
 
 Here is the feedback.
 
@@ -25,15 +25,15 @@ Whiteboard Server
 
 Whiteboard Client - Manager
 
-<img src="screenshots/asm-02-manager.png" alt="drawing" width="720"/>
+<img src="screenshots/asm-02-manager.png" alt="drawing" width="1080"/>
 
 Whiteboard Client - Participant
 
-<img src="screenshots/asm-02-participant.png" alt="drawing" width="720"/>
+<img src="screenshots/asm-02-participant.png" alt="drawing" width="1080"/>
 
 Just like the first assignment, you can simply run the ServerApplication, CreateApplication and JoinApplication to start the server, manager and participant applications.
 
-<img src="screenshots/asm-02-run.png" alt="drawing" width="720"/>
+<img src="screenshots/asm-02-run.png" alt="drawing" width="1080"/>
 
 Here is the feedback.
 
@@ -47,7 +47,7 @@ If you use IntelliJ IDEA, you can follow the steps below to package the module i
 
 1. Open the project structure window, and select the Artifacts tab. Click the plus button and select JAR -> From modules with dependencies.
 
-<img src="screenshots/asm-02-package-01.png" alt="drawing" width="720"/>
+<img src="screenshots/asm-02-package-01.png" alt="drawing" width="1080"/>
 
 2. Select the main class of the module, and click OK.
 
@@ -55,10 +55,10 @@ If you use IntelliJ IDEA, you can follow the steps below to package the module i
 
 3. Click the build button and select Build Artifacts.
 
-<img src="screenshots/asm-02-package-03.png" alt="drawing" width="720"/>
+<img src="screenshots/asm-02-package-03.png" alt="drawing" width="1080"/>
 
 4. Click the build button and JAR file will be generated in the out/artifacts directory.
 
-<img src="screenshots/asm-02-package-04.png" alt="drawing" width="720"/>
+<img src="screenshots/asm-02-package-04.png" alt="drawing" width="1080"/>
 
 Wish you all the best in your studies!
