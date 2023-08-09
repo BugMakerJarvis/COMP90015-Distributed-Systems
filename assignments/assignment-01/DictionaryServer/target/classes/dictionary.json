@@ -1,0 +1,182 @@
+[
+  {
+    "id": 0,
+    "name": "Banana",
+    "description": "a long curved fruit which grows in clusters and has soft pulpy flesh and yellow skin when ripe"
+  },
+  {
+    "id": 1,
+    "name": "Apple",
+    "description": "a fruit that is round, usually red or green, and has a firm white flesh and a core in the center"
+  },
+  {
+    "id": 2,
+    "name": "Dog",
+    "description": "a domesticated carnivorous mammal with a shaggy coat, short legs, and a long snout"
+  },
+  {
+    "id": 3,
+    "name": "Cat",
+    "description": "a small carnivorous mammal with soft fur, a short snout, and retractile claws"
+  },
+  {
+    "id": 4,
+    "name": "House",
+    "description": "a building for human habitation, especially one that is lived in by a family or small group of people"
+  },
+  {
+    "id": 5,
+    "name": "Tree",
+    "description": "a woody perennial plant that typically has a single stem or trunk, supporting branches and leaves"
+  },
+  {
+    "id": 6,
+    "name": "Car",
+    "description": "a road vehicle with an engine, four wheels, and seats for a small number of passengers"
+  },
+  {
+    "id": 7,
+    "name": "Book",
+    "description": "a written or printed work consisting of pages glued or sewn together along one side and bound in covers"
+  },
+  {
+    "id": 8,
+    "name": "Music",
+    "description": "vocal or instrumental sounds (or both) combined in such a way as to produce beauty of form, harmony, and expression of emotion"
+  },
+  {
+    "id": 9,
+    "name": "Guitar",
+    "description": "a stringed musical instrument with a fretted fingerboard and typically six strings, played by plucking or strumming"
+  },
+  {
+    "id": 10,
+    "name": "Computer",
+    "description": "an electronic device that can store, retrieve, and process data"
+  },
+  {
+    "id": 11,
+    "name": "Phone",
+    "description": "a device that can be used to make and receive calls and send messages, typically consisting of a screen and buttons or a touchscreen for input"
+  },
+  {
+    "id": 12,
+    "name": "Table",
+    "description": "a piece of furniture with a flat top and one or more legs, used as a surface for working at, eating from, or on which to place things"
+  },
+  {
+    "id": 13,
+    "name": "Chair",
+    "description": "a separate seat for one person, typically with a back and four legs"
+  },
+  {
+    "id": 14,
+    "name": "Watch",
+    "description": "a small timepiece worn on a person's wrist or carried in a pocket"
+  },
+  {
+    "id": 15,
+    "name": "Bag",
+    "description": "a flexible container with an opening at the top, used for carrying things"
+  },
+  {
+    "id": 16,
+    "name": "Shoe",
+    "description": "a covering for the foot, typically made of leather, with a sturdy sole and not reaching above the ankle"
+  },
+  {
+    "id": 17,
+    "name": "Television",
+    "description": "an electronic device for receiving and displaying moving images and sound"
+  },
+  {
+    "id": 18,
+    "name": "Bicycle",
+    "description": "a vehicle with two wheels that is moved by pedals"
+  },
+  {
+    "id": 19,
+    "name": "Coffee",
+    "description": "a hot drink made from the roasted and ground seeds (coffee beans) of a tropical shrub"
+  },
+  {
+    "id": 20,
+    "name": "Pizza",
+    "description": "a dish of Italian origin, consisting of a flat round base of dough baked with a topping of tomatoes, cheese, and other ingredients"
+  },
+  {
+    "id": 21,
+    "name": "Football",
+    "description": "a game played with a ball by two teams of eleven players, each attempting to score by putting the ball into the other team's goal"
+  },
+  {
+    "id": 22,
+    "name": "Garden",
+    "description": "a piece of ground, often near a house, used for growing flowers, fruit, or vegetables"
+  },
+  {
+    "id": 23,
+    "name": "Camera",
+    "description": "a device for taking photographs or filming, consisting of a lightproof box with a lens at one end and light-sensitive film or an image sensor at the other"
+  },
+  {
+    "id": 24,
+    "name": "Sun",
+    "description": "the star around which the earth orbits and which provides light and heat for the earth"
+  },
+  {
+    "id": 25,
+    "name": "Moon",
+    "description": "the natural satellite of the earth, visible (chiefly at night) by reflected light from the sun"
+  },
+  {
+    "id": 26,
+    "name": "Fire",
+    "description": "the phenomenon of combustion manifested in light, flame, and heat"
+  },
+  {
+    "id": 27,
+    "name": "Water",
+    "description": "a colorless, transparent, odorless liquid that forms the seas, lakes, rivers, and rain and is the basis of the fluids of living organisms"
+  },
+  {
+    "id": 28,
+    "name": "Sky",
+    "description": "the region of the atmosphere and outer space seen from the earth"
+  },
+  {
+    "id": 29,
+    "name": "Earth",
+    "description": "the planet on which we live; the third planet from the sun in the solar system"
+  },
+  {
+    "id": 30,
+    "name": "Universe",
+    "description": "all existing matter and space considered as a whole; the cosmos"
+  },
+  {
+    "id": 31,
+    "name": "History",
+    "description": "the study of past events, particularly in human affairs"
+  },
+  {
+    "id": 32,
+    "name": "Science",
+    "description": "the intellectual and practical activity encompassing the systematic study of the structure and behavior of the physical and natural world through observation and experiment"
+  },
+  {
+    "id": 33,
+    "name": "Art",
+    "description": "the expression or application of human creative skill and imagination, typically in a visual form such as painting or sculpture, producing works to be appreciated primarily for their beauty or emotional power"
+  },
+  {
+    "id": 34,
+    "name": "Nature",
+    "description": "the phenomena of the physical world collectively, including plants, animals, the landscape, and other features and products of the earth"
+  },
+  {
+    "id": 35,
+    "name": "Language",
+    "description": "the method of human communication, either spoken or written, consisting of the use of words in a structured and conventional way"
+  }
+]
